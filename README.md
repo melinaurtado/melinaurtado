@@ -1,7 +1,7 @@
 Hi there 👋, I'm Melina!
 ========================
 
-Ph.D. Student in Psychobiology
+Ph.D. Candidate in Psychobiology
 --------------------------------
 
 - 🔭 I was born in Brazil in 1991. Received a B.Sc. degree in Psychology from the Center University of the Associated Teaching Faculties (2014). Is a Computer Technician by the Federal Institute of Education, Science, and Technology of São Paulo (2017). Is a specialist in Psychobiology (2017) and got an M. Sc. degree in Psychobiology at the University of São Paulo, Brazil (2020), now, I am a Ph.D. student at the same university. My current research interests include perception and psychophysics. Also, I am a quasi-Bachelor of Data Science from UNIVESP (2023), having completed all credits, with only the internship pending.
